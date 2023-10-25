@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GestionDeStock" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GestionDeStock" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GestionDeStock" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ClsArchivoArticulo.cpp" />
+		<Unit filename="ClsArchivoArticulo.h" />
+		<Unit filename="ClsArchivoCliente.cpp" />
+		<Unit filename="ClsArchivoCliente.h" />
+		<Unit filename="ClsArchivoVentas.cpp" />
+		<Unit filename="ClsArchivoVentas.h" />
+		<Unit filename="ClsArticulo.cpp" />
+		<Unit filename="ClsArticulo.h" />
+		<Unit filename="ClsCliente.cpp" />
+		<Unit filename="ClsCliente.h" />
+		<Unit filename="ClsFecha.cpp" />
+		<Unit filename="ClsFecha.h" />
+		<Unit filename="ClsVentas.cpp" />
+		<Unit filename="ClsVentas.h" />
+		<Unit filename="GLOBALES.cpp" />
+		<Unit filename="GLOBALES.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menuArticulos.cpp" />
+		<Unit filename="menuArticulos.h" />
+		<Unit filename="menuClientes.cpp" />
+		<Unit filename="menuClientes.h" />
+		<Unit filename="menuPrincipal.cpp" />
+		<Unit filename="menuPrincipal.h" />
+		<Unit filename="menuVentas.cpp" />
+		<Unit filename="menuVentas.h" />
+		<Unit filename="rlutil.h" />
+		<Unit filename="showItem.cpp" />
+		<Unit filename="showItem.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

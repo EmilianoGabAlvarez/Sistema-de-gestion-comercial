@@ -1,0 +1,6 @@
+#ifndef MENUARTICULOS_H_INCLUDED
+#define MENUARTICULOS_H_INCLUDED
+
+void menuArticulos();
+
+#endif // MENUARTICULOS_H_INCLUDED

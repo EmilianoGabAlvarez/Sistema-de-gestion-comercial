@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1697643326 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clsarchivoarticulo.cpp
+	<iostream>
+	<cstring>
+	"ClsArchivoArticulo.h"
+
+1697635376 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clsarchivoarticulo.h
+	"ClsArticulo.h"
+
+1697593654 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clsarticulo.h
+
+1697592242 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clsarchivocliente.cpp
+	<iostream>
+	<cstring>
+	"ClsArchivoCliente.h"
+
+1697590452 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clsarchivocliente.h
+	"ClsCliente.h"
+
+1697587156 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clscliente.h
+	"ClsFecha.h"
+
+1697587512 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clsfecha.h
+
+1697655618 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clsarchivoventas.cpp
+	<iostream>
+	<cstring>
+	"ClsArchivoVentas.h"
+	"ClsArchivoArticulo.h"
+	"ClsArchivoCliente.h"
+
+1697654328 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clsarchivoventas.h
+	"ClsVentas.h"
+
+1697646708 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clsventas.h
+	"ClsFecha.h"
+
+1697634818 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clsarticulo.cpp
+	<iostream>
+	<cstring>
+	"GLOBALES.h"
+	"ClsArticulo.h"
+
+1697583164 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\globales.h
+
+1697589318 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clscliente.cpp
+	<iostream>
+	<cstring>
+	"ClsCliente.h"
+	"GLOBALES.h"
+
+1697587512 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clsfecha.cpp
+	<iostream>
+	<ctime>
+	"ClsFecha.h"
+
+1697653418 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\clsventas.cpp
+	<iostream>
+	<cstring>
+	"ClsVentas.h"
+	"ClsArchivoArticulo.h"
+	"ClsArchivoCliente.h"
+
+1697584972 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\globales.cpp
+	<iostream>
+	"GLOBALES.h"
+
+1697837046 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"GLOBALES.h"
+	"ClsFecha.h"
+	"ClsCliente.h"
+	"ClsArchivoCliente.h"
+	"ClsArticulo.h"
+	"ClsArchivoArticulo.h"
+	"ClsVentas.h"
+	"ClsArchivoVentas.h"
+	"menuPrincipal.h"
+
+1697656318 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\menuprincipal.h
+
+1697675170 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\menuarticulos.cpp
+	<iostream>
+	"rlutil.h"
+	"menuArticulos.h"
+	"ClsArchivoArticulo.h"
+	"showItem.h"
+
+1666980724 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1697643444 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\menuarticulos.h
+
+1697661036 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\showitem.h
+
+1697678810 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\menuclientes.cpp
+	<iostream>
+	"rlutil.h"
+	"menuClientes.h"
+	"ClsArchivoCliente.h"
+	"showItem.h"
+
+1697592352 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\menuclientes.h
+
+1697678146 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\menuprincipal.cpp
+	<iostream>
+	"rlutil.h"
+	"menuPrincipal.h"
+	"menuClientes.h"
+	"menuArticulos.h"
+	"menuVentas.h"
+	"showItem.h"
+
+1697655752 c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\menuventas.h
+
+1697679052 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\menuventas.cpp
+	<iostream>
+	"rlutil.h"
+	"menuVentas.h"
+	"ClsArchivoVentas.h"
+	"showItem.h"
+
+1697661922 source:c:\users\paips\onedrive\escritorio\sistema de gestion comercial\sistema de gestion comercial\showitem.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"showItem.h"
+
